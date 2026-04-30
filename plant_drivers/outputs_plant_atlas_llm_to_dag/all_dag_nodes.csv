@@ -1,0 +1,38 @@
+species_id,canonical,node,node_type
+demo_001,Kickxia spuria,arable_margins,driver
+demo_001,Kickxia spuria,abundance,outcome
+demo_001,Kickxia spuria,calcareous_soil,driver
+demo_001,Kickxia spuria,crop,driver
+demo_001,Kickxia spuria,habitat suitability,intermediate
+demo_001,Kickxia spuria,cultivation,driver
+demo_001,Kickxia spuria,dense_vegetation,driver
+demo_001,Kickxia spuria,herbicide_use,driver
+demo_001,Kickxia spuria,southern_temperate,driver
+demo_002,Koenigia islandica,cool_upland_situations,driver
+demo_002,Koenigia islandica,habitat suitability,intermediate
+demo_002,Koenigia islandica,flourishing_conditions,driver
+demo_002,Koenigia islandica,reliable_moisture,driver
+demo_002,Koenigia islandica,short_vegetation,driver
+demo_002,Koenigia islandica,warmer_drier_summers,driver
+demo_002,Koenigia islandica,abundance,outcome
+demo_003,Lagurus ovatus,bare_sand,driver
+demo_003,Lagurus ovatus,habitat suitability,intermediate
+demo_003,Lagurus ovatus,closed_dune_grassland,driver
+demo_003,Lagurus ovatus,seed_supply,driver
+demo_003,Lagurus ovatus,population performance,intermediate
+demo_003,Lagurus ovatus,severe_winter_cold,driver
+demo_003,Lagurus ovatus,warm_microsites,driver
+demo_003,Lagurus ovatus,abundance,outcome
+demo_004,Lamium confertum,managed_cultivated_ground,driver
+demo_004,Lamium confertum,abundance,outcome
+demo_004,Lamium confertum,modern_weed_control,driver
+demo_004,Lamium confertum,soil,driver
+demo_004,Lamium confertum,habitat suitability,intermediate
+demo_005,Larix decidua,continued_planting,driver
+demo_005,Larix decidua,abundance,outcome
+demo_005,Larix decidua,disturbed_mineral_soil,driver
+demo_005,Larix decidua,habitat suitability,intermediate
+demo_005,Larix decidua,larch_pathogens,driver
+demo_005,Larix decidua,rocky_ground,driver
+demo_005,Larix decidua,sites_waterlogged_soils,driver
+demo_005,Larix decidua,soil_disturbance,driver

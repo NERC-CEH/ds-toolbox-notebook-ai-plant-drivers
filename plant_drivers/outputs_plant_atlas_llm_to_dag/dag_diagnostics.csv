@@ -1,0 +1,6 @@
+species_id,canonical,n_nodes,n_edges,is_dag,example_cycles
+demo_001,Kickxia spuria,9,8,True,[]
+demo_002,Koenigia islandica,7,6,True,[]
+demo_003,Lagurus ovatus,8,8,True,[]
+demo_004,Lamium confertum,5,5,True,[]
+demo_005,Larix decidua,8,8,True,[]

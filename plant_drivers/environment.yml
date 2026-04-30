@@ -1,0 +1,22 @@
+name: plant-atlas-llm-dag
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python>=3.10,<3.12
+  - pip
+  - pandas
+  - numpy
+  - matplotlib
+  - networkx
+  - jupyter
+  - ipykernel
+  - tqdm
+  - pytorch
+  - pytorch-cuda=12.1
+  - pip:
+      - transformers>=4.44
+      - accelerate
+      - bitsandbytes
+      - sentencepiece
